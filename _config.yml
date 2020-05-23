@@ -22,7 +22,7 @@ title: Fan-HD's Blog
 email: fan_hd@zju.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
         Easy Life
-github_username:  jekyll
+github_username:  fan-hd
 
 # Build settings
 theme: jekyll-theme-minimal
