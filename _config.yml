@@ -29,8 +29,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fan-hd
 
 # Build settings
-# theme: jekyll-theme-slate
-theme: minima
+theme: jekyll-theme-slate
+# theme: minima
+highlight: rouge
 
 plugins:
   - jekyll-feed
